@@ -5,8 +5,13 @@ Pre-requisites:
 - emphasis on modelling the "unknown" variable/s. (algebra)
 - greek/latin philsophical
 - automata (machine, meant to be life-like)
+- logos (reason, structure)
+- nexus (connection)
+- schema (form)
 
 Generations:
+- Schemata or Schematica
+- Logosystema
 - Alphabeta
 - Grammatica
 - Logogramma
