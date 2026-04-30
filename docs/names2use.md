@@ -8,9 +8,11 @@ Pre-requisites:
 - logos (reason, structure)
 - nexus (connection)
 - schema (form)
+- meta (change, beyond, above, after)
 
 Generations:
 - Schemata or Schematica
+- Lowercase or Uppercase
 - Logosystema
 - Alphabeta
 - Grammatica
