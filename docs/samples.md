@@ -14,6 +14,19 @@ The fundamental computational model, which is the fundmaental model of all compu
 - of input "i"
 - transformed by the unknown "x"
 
+This tangibly describes the fundamental model of a computer program. In this sense, the input is the "idea" or problem to solve, in which the computer program exists solely as an executable product, not the architectural design.
+
+The output could be the computer program itself, or the output of a transformation.
+
+## 2.0 Fundamental inversion feedback
+If $o = x(i)$ is true for computational models. Then the reverse is true for the human operator, and engineer. Arguably, a more fundamental feedback model, which harmonizes with the fundamental series transformation machine.
+
+```math
+\sum i = o(x)
+```
+
+Where $i$ is the human input source (or a recursive input from another transformation $x$)...
+
 ### 1.0.1 Defining fundamental computation
 
 ```math
