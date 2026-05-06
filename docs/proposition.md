@@ -1,0 +1,4 @@
+# Proposition 
+Programming, Software architecture and Computation is __90% cognitive.__ Source code is __pure execution.__ It is not a space designed for the natural thinking process of the human being itself. Perhaps one of the only reasons software has gotten away with this, is previously because it is executable. As long as "it just runs," the process of human cognitive exhaustion is remotely ignorable. This is the primary tension we are facing, as developers of modern technology; we have not only an ethical, social responsibility to process our work property, but locally, maintaining sustainable health and living an integrated life, outside of computation.
+
+Bjourne Stroupsrop, The developer of C++ (one of the most powerful, notoriously difficult computer programming languages ever created) said himself: ["One of the things I regret the most is spending all of my time investing of the computer."]()
