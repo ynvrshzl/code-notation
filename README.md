@@ -1,6 +1,6 @@
 
 ```math
-o = i(x)
+\sum (o = x(i))
 ```
 <sub>Description: the fundamental proposed model of computational programs.</sub>
 
